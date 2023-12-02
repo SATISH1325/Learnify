@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LearnifyApp</string>
+    <string name="text_log_in">Log In</string>
+    <string name="text_term_condition">By signing up, you agree with our Terms and Conditions</string>
+    <string name="text_otp_verify">OTP Verify</string>
+    <string name="text_otp_sent_to">OTP Sent to</string>
+    <string name="btn_get_otp">Get OTP</string>
+    <string name="btn_verify_otp">Verify OTP</string>
+</resources>
